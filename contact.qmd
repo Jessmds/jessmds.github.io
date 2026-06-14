@@ -1,0 +1,43 @@
+---
+title: ""
+toc: false
+page-layout: full
+---
+
+# Get in Touch
+
+::: {.contact-icons}
+
+[![](images/mail.png){height=32px}](mailto:j.dasilva@sanbi.org.za)
+
+[![](images/linkedin.png){height=32px}](https://www.linkedin.com/in/jessica-da-silva-75274b25/)
+
+[![](images/orcid.png){height=32px}](https://orcid.org/0000-0001-8385-1166)
+
+[![](images/github.png){height=32px}](https://github.com/Jessmds)
+
+[![](images/scholar.png){height=32px}](https://scholar.google.co.za/citations?hl=en&user=vfzgboIAAAAJ)
+
+:::
+
+::: {.contact-layout}
+
+::: {.contact-photo}
+
+![](images/casual.jpeg)
+
+:::
+
+::: {.contact-text}
+
+I welcome enquiries regarding research collaborations, postgraduate supervision, conservation genomics, biodiversity assessment, and genetic diversity monitoring.
+
+**Jessica M. da Silva, PhD**  
+Principal Scientist  
+South African National Biodiversity Institute (SANBI)
+
+Kirstenbosch Research Centre, Cape Town, South Africa
+
+:::
+
+:::

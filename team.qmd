@@ -1,0 +1,54 @@
+---
+title: ""
+toc: true
+toc-location: right
+page-layout: article
+---
+
+## Current Members
+
+### Postdoctoral Researchers
+
+#### Dr Jody Taft
+
+Using population genomics to investigate adaptive genetic diversity and climate resilience in South Africa's threatened Karoo dwarf tortoises (*Chersobius boulengeri* and *C. signatus*), supporting evidence-based conservation management and monitoring.
+
+#### Dr Frederik van Heerden
+
+Quantifying phylogenetic diversity, evolutionary distinctiveness (EDGE), and expected phylogenetic diversity loss in South African mammals to support biodiversity assessment, conservation prioritisation, and national monitoring.
+
+### Postgraduate Students
+
+#### Kyle Smith
+
+PhD candidate (Cardiff University)
+
+Using population genomics, environmental DNA (eDNA), and ecological network analyses to investigate connectivity, community interactions, and conservation management of the Endangered Pickersgill's Reed Frog (*Hyperolius pickersgilli*).
+
+#### Petra
+
+MSc candidate (University of Namibia)
+
+Evaluating the current state of conservation genetics in Namibia
+
+### Interns
+
+Ayandisa Zongo
+
+## Alumni
+
+### Postgraduate Students
+
+Charlotte Combrink (MSc, Stellenbosch University)
+
+Keith Dube (Msc, University of Johannesburg)
+
+Matthew Adair (Msc, University of Johannesburg)
+
+### Interns
+
+Jade Simoen
+
+Future Machate
+
+Masivuye Bulube

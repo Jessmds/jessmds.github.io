@@ -1,0 +1,103 @@
+---
+title: "Publications"
+toc: true
+toc-location: right
+toc-depth: 2
+page-layout: article
+---
+
+## Peer-reviewed
+
+*Upcoming publications and those from the last five years are displayed below. For full list of peer-reviewed publications see*  [![](images/scholar.png){height=32px}](https://scholar.google.co.za/citations?hl=en&user=vfzgboIAAAAJ)
+
+Tolley KA, Tilbury CR, Burger M, **da Silva JM** (in prep). Two new species of Dwarf Chameleons (Bradypodion) from Afrotemperate forests in South Africa
+
+**da Silva JM**, Machate FH, Simoen J, Patel T (under review) Mainstreaming Genetic Diversity Indicators through the IUCN Red List Process: A National-Scale Assessment of South African Mammals. 
+
+Shaw R, Elliott CP, Mergeay J, Segelbacher G, Blasiak R, Coates DJ, **da Silva JM**, Farquharson KA, Hoban S,  Norström A, Ottewell K, Vilaça ST, Bridgewater P, Fedorca A, Hvilsom C, Jones TH, Kershaw F, Kirkpatrick S, Laikre L, MacDonald AJ, Mastretta-Yanes A, Meek M, Mittan-Moreau C, Russo I-SM, Grueber CE (under review). Business as usual will commit biodiversity to genetic erosion: parallels from climate change for proactive conservation. 
+
+Geue JC†, **da Silva JM**†**,** Russo, I-R (under review) From Framework to Practice: Operational tools for Identifying Subpopulations and Evolutionary Significant Units to Support Conservation Management. †=co-first authors.
+
+**da Silva JM**, Meissenheimer K, Petford MA, Tolley KA (in press). Inventory and DNA barcode reference library of invertebrates to facilitate the study of dwarf chameleon diets in urban and natural habitats in South Africa. 
+
+Geue JC, Bertola L, Bloomer P, Brüniche-Olsen A, **da Silva J,** DeWoody JA, Fedorca A,  Godoy JA, Grueber CE, Hunter M, Hvilsom C, Russo I-R, Jensen EL, Kopatz A, MacDonald AJ, Pérez-Espona S, Piaggio AJ, Pierson JC, Senn H, Segelbacher G, Sunnucks P, van Oosterhout C, Leigh DM (in press) Practical genetic diversity protection: an accessible framework for IUCN subpopulation and Evolutionarily Significant Unit identification. EcoEvoRxiv Preprint: <https://doi.org/10.32942/X2RK9Q> 
+
+Kgatla MM, Barker C,  Baxter JR, ... Sethusa T†, **da Silva JM**†, Mwale M† (2026) Overview of DNA barcoding of biodiversity in South Africa. PLOS One. <https://doi.org/10.1371/journal.pone.0345173>
+
+Griffith J, Lord J-M, Catchen MD, Arce-Plata MI, Blanchet FG, Chandramohan M, Diaz-Corzo MC, Gravel D, Gutiérrez C, Helfenstein IS, Hoban S, Kass JM, Laikre L, Larocque G, Leigh DM, Leung B, Mastretta-Yanes A, Millette KL, Molina Berbeo MA, Nguyen D, Norman KE, Olaya-Rodríguez MH, Pahls S, Pereira K, Peres-Neto P, Poisot T, Pollock LJ, Rey-Velasco JC, Rincon-Parra VJ, Roeoesli C, Rousseu F, Sánchez-Calvijo LM, Schuman MC, Selmoni O, **da Silva JM**, Suarez-Valencia E, Surasinghe TD, Turak E, Valentin S, Wightman N, Urbina LF, Zuloaga J, Londoño M-C, Gonzalez A (2026) BON in a Box: An Open and Collaborative Platform for Biodiversity Monitoring, Indicator Calculation, and Reporting. BioScience 76: biaf189. <https://doi.org/10.1093/biosci/biaf189> 
+
+Daniels, RJ, **da Silva JM**, Edwards S, Taft JM, Tolley KA (2026). Plio-Pleistocene range dynamics of the Spotted Sand Lizard (Pedioplanis lineoocellata) sheds light on taxonomic uncertainty. Zoological Journal of the Linnean Society 206: zlaf193. <https://doi.org/10.1093/zoolinnean/zlaf193> 
+
+**da Silva JM**, Bertola LD, DeWoody JA, Steeves T, Sunnucks P, Vilaça ST, Hoban S (2026) Conserving genetic diversity in accordance with the Global Biodiversity Framework. Annual Review in Animal Biosciences.  <https://doi.org/10.1146/annurev-animal-030424-070756>   
+
+**da Silva JM,** Seymour C, Harris LR, van Niekerk L, Dayaram A, Driver A, Kgomo T, Khatieb S, Msweli ST, Sink K, Tshidada N, von Staden L, Poole CJ, Skowno AL (2025) National Biodiversity and Ecosystem Assessments for conservation impact: uptake and lessons learnt from the South African experience. Ambio. <https://doi.org/10.1007/s13280-025-02285-8> 
+
+Tolley KA, Main D, Dube K, van Vuuren BJ, **da Silva JM** (2025) [Ecological factors promote convergent evolution and ecological speciation in dwarf chameleons (Bradypodion)](https://goto.arphahub.com/HHjO5SOSnvRc). Zoosystematics and Evolution 101(3): 1227-1247. <https://doi.org/10.3897/zse.101.151926>   
+
+Zhivkoplias E, **da Silva JM**, Blasiak R (2025). How smarter biotechnology use will unlock biodiversity research. Trends in Biotechnology. <https://doi.org/10.1016/j.tibtech.2025.04.008> 
+
+Adair MG, Tolley KA, van Vuuren BJ, **da Silva JM** (2025) Anthropogenic reverberations on the gut microbiome of dwarf chameleons (Bradypodion). PeerJ 13:e18811 <https://peerj.com/articles/18811/> 
+
+Kosch TA, Torres-Sánchez M, Liedtke HC. et al.  (2024) The Amphibian Genomics Consortium: advancing genomic and genetic resources for amphibian research and conservation. BMC Genomics 25, 1025. <https://doi.org/10.1186/s12864-024-10899-7>  
+
+Hoban S, Hvilsom C, Abdeldjalil A, Aleixo A, Biala K, Ekblom R, Fedorca A, Funk WC, Goncalves A, Gonzalez A, Heuertz M, Hughes A, Ishihama F, Kalamujić Stroil B, Laikre L, Millette K, O’Brien D, Paz-Vinas I, Rincon-Parra YJ, Robuchon M, Rodriguez JP,  Rodriguez-Morales MA, Segelbacher G, Straza TAR, Susanti R, Tshidada N, Vilaça ST, **da Silva JM.** (2024). How can biodiversity strategy and action plans incorporate genetic diversity concerns, plans, policies, capacity, and commitments? BioScience 2024, biae106. <https://doi.org/10.1093/biosci/biae106>   
+
+Hoban S, Paz-Vinas I, Shaw RE, Castillo-Reina L, **da Silva JM,** De Woody JA, Ekblom R, Fedorca A, Forester BR, Funk WC, Geue JC, Heuertz M, Hollingsworth PM, Hughes AC, Hunter ME, Hvilsom C, Ishihama F, Jordan R, Kalamujic Stroil B, Kershaw F, Khoury CK, Köppä V, Laikre L, MacDonald AJ, Mastretta-Yanes A, Meek MH, Mergeay J, Millette KL, O'Brien D, Rincon-Parra VJ, Rodriguez-Morales MA, Schuman MC, Segelbacher G, Sunnucks P, Taylor RS, Thurfjell H, Vernesi C, Greuber CE (2024). DNA-based studies and genetic indicator assessments are complementary approaches to conserving evolutionary potential. Conservation Genetics 25,  1147–1153 .  <https://doi.org/10.1007/s10592-024-01632-8> 
+
+Mastretta-Yanes A, Paz-Vinas I, Segelbacher S, Knapps A, Rakoczy H, Weiler A, Atsaves A, Cullmann K, Bagnato S, Mergeay J, MacDonald AJ, Laikre L, Suárez S, Jordan R, Hoban S, **da Silva JM**, Castillo-Reina L, Heuertz M, Ishihama F, Köppä V, Forester BR (2024). Guideline materials and documentation for the Genetic Diversity Indicators of the monitoring framework for the Kunming-Montreal Global Biodiversity Framework. Biodiversity Informatics 18, 24-27. <https://doi.org/10.17161/bi.v18i.22332>. 
+
+Mastretta-Yanes A† , **da Silva JM† ,** Grueber CE, Castillo-Reina L, Köppä V, Forester BR, Funk WC, Heuertz M, Ishihama F, Jordan R, Mergeay J, Paz-Vinas I, Rincon-Parra VJ, Rodriguez-Morales MA, Arredondo-Amezcua L, Brahy G, DeSaix M, Durkee L, Hamilton A, Hunter ME, Koontz A, Lang I, Latorre MC, Latty T, Llanes-Quevedo A, MacDonald AJ, Mahoney M, Miller C, Ornelas JF, Ramírez-Barahona S, Robertson E, Russo I-RM, Santiago MA, Shaw RE, Shea GM, Sjögren-Gulve P, Spence M, Stack T, Suárez S, Takenaka A, Thurfjell H, Turbek S, van der Merwe M, Visser F, Wegier A, Wood G, Zarza E, Laikre L, Hoban S (2024). Multinational evaluation of genetic diversity indicators for the Kunming-Montreal Global Biodiversity Monitoring Framework. Ecology Letters 27, e14461. <https://doi.org/10.1111/ele.14461>.  †=co-first authors.
+
+Hunter ME, **da Silva JM**, Mastretta-Yanes A, Hoban S (2024). A new era of genetic diversity conservation through novel tools and accessible data. Frontiers in Ecology and the Environment. 22: e2740 (Editorial).[https://doi.org/10.1002/fee.2740 ](https://doi.org/10.1002/fee.2740https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2740)
+
+Hoban S, **da Silva JM**, Hughes A, Hunter ME, Kalamujić Stroil B, Laikre L, Mastretta-Yanes A,  Millette K, Paz-Vinas I, Ruiz L,  Shaw R, Vernesi C (2024). Too simple, too complex, or just right? Advantages, challenges and resolutions for indicators of genetic diversity. BioScience. biae006. <https://doi.org/10.1093/biosci/biae006> 
+
+Herrel A, Taft JM, Main DC, **da Silva JM**, Tolley KA (2024). Branching out: Perch diameter and orientation affect pull strength in chameleons (Genus: Bradypodion). Biological Journal of the Linnean Society 143, blae003. <https://doi.org/10.1093/biolinnean/blae003> 
+
+Adair MG, Forgus JJ, Main DC, Taft JM,  **da Silva JM**, Tolley KA. (2023). The pros and cons of buccal swabbing and tail clipping for monitoring reptilian biodiversity. South African Journal of Science 119 (11/12). DOI: [10.17159/sajs.2023/16217](https://sajs.co.za/article/view/16217)
+
+Hoban S, **da Silva J**, Mastretta-Yanes A, Grueber C, Heuertz M, Hunter M, Mergeay J, Paz-Vinas I, Fukaya K, Ishihama F, Jordan R, Latorre MC, MacDonald AJ, Rincon-Parra V, Sjögren-Gulve P, Tani N, Thurfjell H, Laikre L. (2023) Monitoring status and trends in genetic diversity for the Convention on Biological Diversity: an ongoing assessment of genetic indicators in nine countries. Conservation Letters 16, e12953. DOI: [10.1111/conl.12953](https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12953).
+
+Robuchon M, **da Silva J**, Dubois G, Gumbs R, Hoban S, Laikre L, Owen NR, Perino A (2023) Conserving species’ evolutionary potential and history: opportunities under the Kunming-Montreal Global Biodiversity Framework. Conservation Science and Practice 5, e12929. DOI: [10.1111/csp2.12929](https://doi.org/10.1111/csp2.12929) 
+
+Hoban S, Bruford MW, **da Silva J**, Funk WC, Frankham R, Gill MJ, Grueber CE, Heuertz M, Hunter ME, Kershaw F, Lacy RC, Lees C, Lopes‑Fernandes M, MacDonald AJ, Mastretta‑Yanes A, McGowan PJK, Meek MH, Mergeay J, Millette KL,  Mittan‑Moreau CS, Navarro LM, O’Brien D, Ogden R, Segelbacher G, Paz‑Vinas I, Vernesi C, Laikre L. (2023) Genetic diversity Goals and Targets have improved, but remain insufficient for clear implementation of the post 2020 Global Biodiversity Framework. Conservation Genetics 24, 181-191. DOI: 1[0.1007/s10592-022-01492-0](https://link.springer.com/article/10.1007/s10592-022-01492-0)
+
+Stephens K, Tolley KA, **da Silva JM** (2022) A decade of genetic monitoring reveals increased inbreeding for the Endangered western leopard toad, Sclerophrys pantherina (Smith, 1828). Conservation Genetics 23, 903-918. <https://doi.org/10.1007/s10592-022-01463-5> 
+
+Harper JRM, Van Wilgen NJ, Turner AA, Tolley KA, Maritz B, Clusella-Trullas S, **da Silva JM**, Cunningham S, Cheney C, De Villiers AL, Measey J, Foden WB (2022) Application of a trait-based climate change vulnerability assessment to determine management priorities at protected area scale. Conservation Science and Practice 4: e12756.  <https://doi.org/10.1111/csp2.12756>  
+
+Scholtz A, Freitag J, Lyal C, Sara R, Cepeda M, Cancio I, Sett S, Hufton A, Abebaw Y, Bansal K, Benbouza H, Boga HI, Brisse S, Bruford M, Clissold H, Cochrane G, Coddington J, Deletoille A-C, Garcia-Cardona F, Hamer M, Ortiz RH, Miano D, Nicholson D, Oliveira G, Bravo CO, Rohden F, Seberg O, Segelbacher G, Shouche Y, Sierra A, **da Silva J**, Mizrachi I, da Silva M, Hauea D, Suzuki M, Tesfaye K, Tiambo CK, Tolley K, Varshney R, Zambrano M, Overmann J (2022). Multilateral benefit-sharing from digital sequence information will support both science and biodiversity conservation. Nature Communications 13: 1086. DOI: [10.1038/s41467-022-28594-0](https://doi.org/10.1038/s41467-022-28594-0) 
+
+Tolley KA, Tilbury CR, **da Silva JM**, Brown G, Chapeta Y, Anderson CV (2022) Clinging to Survival: Critically Endangered Chapman’s Leaf Chameleon (Rhampholeon chapmanorum) persists in shrinking forest patches.  Oryx 56: 451-456. DOI: [10.1017/S0030605320000952](https://doi.org/10.1017/S0030605320000952) (open access)
+
+Hoban S , Campbell CD, **da Silva JM**,  Ekblom R , Funk WC, Garner BA, Godoy JA, Kershaw F, MacDonald AJ , Mergeay J, Minter M, O’Brien D, Paz Vinas I, Pearson SK, Pérez-Espona S, Potter KM, Russo I-S M, Segelbacher G, Vernesi C, Hunter ME (2021) Genetic diversity is considered important but interpreted narrowly in country reports to the Convention on Biological Diversity: current actions and indicators are insufficient. Biological Conservation 261: 109233. DOI: [10.1016/j.biocon.2021.109233](https://doi.org/10.1016/j.biocon.2021.109233)  (open access)
+
+Blasiak R, Wynberg R, Grorud-Colvert K, Thambisetty S, Bandarra NM, Canario AVM, **da Silva J**, Duarte C, Jaspars M, Rogers A, Sink K, Wabnitz CCC (2020) Future of the Ocean Genome: Prospects for Conservation and Equity. Nature Sustainability 3: 588-596. DOI: [10.1038/s41893-020-0522-9](https://www.nature.com/articles/s41893-020-0522-9) (open access)
+
+
+## Technical Reports
+
+(last five years)
+
+DFFE, SANBI (2026) Seventh National Report to the Convention on Biological Diversity. Available at: <https://ort.cbd.int/national-reports/nr7/B39EE78A-4EC7-9AB3-8F78-897C60B17987#section3>.
+
+Patel T, Smith C, Roxburgh L, **da Silva JM**, Raimondo D, editors. (2025) The Red List of Mammals of South Africa, Eswatini and Lesotho. South African National Biodiversity Institute and Endangered Wildlife Trust, South Africa. Available at <https://ewt.org/2025-red-mammal-list/>    
+
+**da Silva JM**, Nieto Lawrence JA, Tolley, KA (2025) Genetic Diversity. National Biodiversity Assessment 2025. South African National Biodiversity Institute. <http://nba.sanbi.org.za/> .
+
+SANBI (2025) National Biodiversity Assessment 2025: The status of South Africa’s biodiversity. Summary of Findings and Key Messages. Skowno AL, Poole CJ, Besseling NA, Currie JC, **da Silva JM**, Dayaram A, Harris LR, Job N, Monyeki M, Mtshali H, Raimondo DC, Sink KJ, Van der Bank MG, Van der Colff D, Van Niekerk , Von Staden L. South African National Biodiversity Institute (an entity of the Department of Forestry, Fisheries and the Environment), Pretoria. <https://hdl.handle.net/20.500.12143/9467>.
+
+SANBI (2024) South Africa’s National Biodiversity Assessment: Contextual and Operational Framework. Version 1.0. South African National Biodiversity Institute, Pretoria, South Africa. Available online at <https://www.sanbi.org/wp-content/uploads/2024/06/South-Africas-NBA-Contextual-and-Operational-Framework-V1.0-May-2024-FINAL.pdf>  (Written by Carol Poole, Andrew Skowno, Kerry Sink, **Jessica da Silva**, Domitilla Raimondo, Nancy Job, Lara van Niekerk, Anisha Dayaram, Sediqa Khatieb, Maphale Monyeki, Megan van der Bank, Heidi van Deventer and Amanda Driver)
+
+Blasiak R, Wynberg R, Grorud-Colvert K, Thambisetty S, Bandarra NM, Canário AVM, **da Silva J**, Duarte CM, Jaspars M, Rogers AD, Sink K, Wabnitz CCC (2020) Ocean Genome: Conservation and the Fair, Equitable and Sustainable Use of Marine Genetic Resources. Washington, DC: World Resources Institute. Available online at [www.oceanpanel.org/blue-papers/ocean-genome-conservation-andfair-equitable-and-sustainable-use-marine-genetic](http://www.oceanpanel.org/blue-papers/ocean-genome-conservation-andfair-equitable-and-sustainable-use-marine-genetic) 
+
+## Popular Works
+
+Cloete J, Spear D, **da Silva J**, Simba LD, Carrick PJ. 2026.  AI in nature conservation: powerful tool or dangerous shortcut? The Conversation. <https://theconversation.com/ai-in-nature-conservation-powerful-tool-or-dangerous-shortcut-283718>. <https://doi.org/10.64628/AAJ.juasmcru6> 
+
+Kershaw F, **da Silva J**, Funk C, Grueber C, Hoban S, Hunter M, Laikre L, MacDonald A, Mastretta-Yanes A, Meek M, Mittan C, O'Brien D, Ogden R, Segelbacher G, Shaw R, Vernesi C (2024). Protecting genetic diversity to benefit nature and society. Open Access Government. April 2024: 392- 393.  
+
+## Books
+
+Lui K,  Butler M, Allen M, **da Silva J**, Brownson B (2008) Field Guide to Aquatic Invasive Species: Identification, collection and reporting of aquatic invasive species in Ontario waters. Queen’s Printer for Ontario, Peterborough. ISBN 978-1-4249-4380-7.
+

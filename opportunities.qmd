@@ -1,0 +1,23 @@
+---
+title: "Opportunities"
+toc: false
+page-layout: full
+---
+
+I welcome enquiries from prospective postgraduate students, postdoctoral researchers, interns, and collaborators interested in applying evolutionary and genomic approaches to real-world conservation challenges.
+
+My current research sits at the interface of conservation science, biodiversity assessments, and environmental policy, with a strong emphasis on translating genetic and genomic data into actionable conservation outcomes.
+
+While these represent my current areas of focus, I remain open to new ideas, interdisciplinary collaborations, and innovative approaches that advance biodiversity conservation.
+
+::: {.contact-box}
+
+### Interested in working with me?
+
+I welcome enquiries from prospective MSc and PhD students, postdoctoral researchers, interns, and collaborators interested in these or related research areas.
+
+Please include a brief description of your interests, relevant experience, and how your proposed work aligns with my research programme.
+
+[Contact me](contact.qmd)
+
+:::
