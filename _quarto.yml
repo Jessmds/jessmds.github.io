@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Jessica M. da Silva"
+  site-url: "https://jessmds.github.io/"
   navbar:
     right:
       - text: "Home"
