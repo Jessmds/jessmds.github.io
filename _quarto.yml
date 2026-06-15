@@ -22,7 +22,10 @@ website:
 
 format:
   html:
-    theme:
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="EVWSVHSD6WuP88xZl-ilEXNuiO2-OHlYOPzbSMMLSSg" />
+      theme:
       - cosmo
       - custom.scss
     page-layout: full
