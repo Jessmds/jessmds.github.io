@@ -33,19 +33,15 @@ Evaluating the current state of conservation genetics in Namibia
 
 ### Interns
 
-<div class="team-member">
+::: {team-member}
 
-<img src="images/ayandisa.png" alt="Ayandisa Zongo" class="team-photo">
-
-<div class="team-info">
+![](images/ayandisa.png){.team-photo}
 
 #### Ayandisa Zongo
 
 Joan Wrench Intern
 
-</div>
-
-</div>
+:::
 
 ## Alumni
 
