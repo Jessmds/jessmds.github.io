@@ -16,7 +16,7 @@ Tolley KA, Tilbury CR, Burger M, **da Silva JM** (in prep). Two new species of D
 
 Shaw R, Elliott CP, Mergeay J, Segelbacher G, Blasiak R, Coates DJ, **da Silva JM**, Farquharson KA, Hoban S,  Norström A, Ottewell K, Vilaça ST, Bridgewater P, Fedorca A, Hvilsom C, Jones TH, Kershaw F, Kirkpatrick S, Laikre L, MacDonald AJ, Mastretta-Yanes A, Meek M, Mittan-Moreau C, Russo I-SM, Grueber CE (under review). Business as usual will commit biodiversity to genetic erosion: parallels from climate change for proactive conservation. 
 
-Geue JC†, **da Silva JM**†**,** Russo, I-R (under review) From Framework to Practice: Operational tools for Identifying Subpopulations and Evolutionary Significant Units to Support Conservation Management. †=co-first authors.
+Geue JC†, **da Silva JM**†, Russo, I-R (under review) From Framework to Practice: Operational tools for Identifying Subpopulations and Evolutionary Significant Units to Support Conservation Management. †=co-first authors.
 
 **da Silva JM**, Meissenheimer K, Petford MA, Tolley KA (in press). Inventory and DNA barcode reference library of invertebrates to facilitate the study of dwarf chameleon diets in urban and natural habitats in South Africa. 
 
@@ -78,6 +78,8 @@ Blasiak R, Wynberg R, Grorud-Colvert K, Thambisetty S, Bandarra NM, Canario AVM,
 ## Technical Reports
 
 (last five years)
+
+Köppä V, Thurfjell H,  **da Silva JM**, Mastretta-Yanes A, Hoban S, Laikre L (2026) Monitoring genetic diversity in Sweden with new indicators for the CBD Kunming-Montreal Global Biodiversity Framework. REPORT TO THE SWEDISH ENVIRONMENTAL PROTECTION AGENCY (NATURVÅRDSVERKET). Available at: <https://naturvardsverket.diva-portal.org/smash/get/diva2:2062832/FULLTEXT01.pdf>
 
 DFFE, SANBI (2026) Seventh National Report to the Convention on Biological Diversity. Available at: <https://ort.cbd.int/national-reports/nr7/B39EE78A-4EC7-9AB3-8F78-897C60B17987#section3>.
 
