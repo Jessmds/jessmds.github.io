@@ -25,7 +25,7 @@ PhD candidate (Cardiff University)
 
 Using population genomics, environmental DNA (eDNA), and ecological network analyses to investigate connectivity, community interactions, and conservation management of the Endangered Pickersgill's Reed Frog (*Hyperolius pickersgilli*).
 
-#### Petra
+#### Petra Dominic
 
 MSc candidate (University of Namibia)
 
@@ -33,22 +33,34 @@ Evaluating the current state of conservation genetics in Namibia
 
 ### Interns
 
-Ayandisa Zongo
+<div class="team-member">
+
+<img src="images/ayandisa.png" alt="Ayandisa Zongo" class="team-photo">
+
+<div class="team-info">
+
+#### Ayandisa Zongo
+
+Joan Wrench Intern
+
+</div>
+
+</div>
 
 ## Alumni
 
 ### Postgraduate Students
 
-Charlotte Combrink (MSc, Stellenbosch University)
+Charlotte Combrink (MSc, Stellenbosch University), 2025
 
-Keith Dube (Msc, University of Johannesburg)
+Matthew Adair (Msc, University of Johannesburg), 2023
 
-Matthew Adair (Msc, University of Johannesburg)
+Keith Dube (Msc, University of Johannesburg), 2022
 
 ### Interns
 
-Jade Simoen
+Jade Simoen, 2025-2026
 
-Future Machate
+Future Machate, 2025-2026
 
-Masivuye Bulube
+Masivuye Bulube, 2024
