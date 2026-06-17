@@ -111,8 +111,9 @@ h2 {
   flex-shrink: 0;
 }
 
-.team-info {
-  flex: 1;
+.team-info h4 {
+  margin-top: 0;
+  margin-bottom: 0.3rem;
 }
 
 .network-bar {

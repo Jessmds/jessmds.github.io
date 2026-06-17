@@ -33,7 +33,7 @@ Evaluating the current state of conservation genetics in Namibia
 
 ### Interns
 
-::: {team-member}
+::: {.team-member}
 
 ![](images/ayandisa.png){.team-photo}
 
