@@ -24,7 +24,7 @@ page-layout: full
 
 ::: {.contact-photo}
 
-![](images/casual.jpeg)
+![](images/Jess_2022.jpeg)
 
 :::
 
