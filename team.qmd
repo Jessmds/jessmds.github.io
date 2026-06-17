@@ -25,11 +25,21 @@ PhD candidate (Cardiff University)
 
 Using population genomics, environmental DNA (eDNA), and ecological network analyses to investigate connectivity, community interactions, and conservation management of the Endangered Pickersgill's Reed Frog (*Hyperolius pickersgilli*).
 
-#### Petra Dominic
+::: {.team-member}
+
+![](images/petra.png){.team-photo width="150" height="150"}
+
+::: {.team-info}
+
+#### Petra Yawanu
 
 MSc candidate (University of Namibia)
 
-Evaluating the current state of conservation genetics in Namibia
+Assessing the current status and application of conservation genetics in Namibia, and quantifying national genetic diversity indicators for biodiversity monitoring.
+
+:::
+
+:::
 
 ### Interns
 
