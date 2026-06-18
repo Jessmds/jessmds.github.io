@@ -13,9 +13,19 @@ page-layout: article
 
 Using population genomics to investigate adaptive genetic diversity and climate resilience in South Africa's threatened Karoo dwarf tortoises (*Chersobius boulengeri* and *C. signatus*), supporting evidence-based conservation management and monitoring.
 
+::: {.team-member}
+
+![](images/frederik-1.2.png){.team-photo width="150" height="150"}
+
+::: {.team-info}
+
 #### Dr Frederik van Heerden
 
 Quantifying phylogenetic diversity, evolutionary distinctiveness (EDGE), and expected phylogenetic diversity loss in South African mammals to support biodiversity assessment, conservation prioritisation, and national monitoring.
+
+:::
+
+:::
 
 ### Postgraduate Students
 
