@@ -9,9 +9,19 @@ page-layout: article
 
 ### Postdoctoral Researchers
 
+::: {.team-member}
+
+![](images/jody.png){.team-photo width="150" height="150"}
+
+::: {.team-info}
+
 #### Dr Jody Taft
 
 Using population genomics to investigate adaptive genetic diversity and climate resilience in South Africa's threatened Karoo dwarf tortoises (*Chersobius boulengeri* and *C. signatus*), supporting evidence-based conservation management and monitoring.
+:::
+
+:::
+
 
 ::: {.team-member}
 
