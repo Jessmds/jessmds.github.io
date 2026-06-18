@@ -15,7 +15,7 @@ Using population genomics to investigate adaptive genetic diversity and climate 
 
 ::: {.team-member}
 
-![](images/frederik-1.2.png){.team-photo width="150" height="150"}
+![](images/frederik.png){.team-photo width="150" height="150"}
 
 ::: {.team-info}
 
