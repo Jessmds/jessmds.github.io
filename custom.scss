@@ -249,5 +249,25 @@ h2 {
   .research-card {
     width: 100% !important;
     max-width: 100% !important;
-  }  
+  }
+
+  .contact-grid,
+  .contact-row,
+  .contact-layout {
+    display: block !important;
+  }
+
+  .contact-text,
+  .contact-image,
+  .contact-photo {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .contact-image img,
+  .contact-photo img {
+    max-width: 280px !important;
+    margin: 1rem auto !important;
+    display: block !important;
+  }
 }
