@@ -251,23 +251,38 @@ h2 {
     max-width: 100% !important;
   }
 
-  .contact-grid,
-  .contact-row,
+/* Contact page mobile fixes */
+
   .contact-layout {
-    display: block !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
   }
 
-  .contact-text,
-  .contact-image,
   .contact-photo {
+    order: 2;
+    width: 100% !important;
+    text-align: center;
+  }
+
+  .contact-text {
+    order: 1;
     width: 100% !important;
     max-width: 100% !important;
   }
 
-  .contact-image img,
   .contact-photo img {
-    max-width: 280px !important;
-    margin: 1rem auto !important;
+    max-width: 260px !important;
+    width: 70% !important;
+    height: auto !important;
+    margin: 1.5rem auto !important;
     display: block !important;
+  }
+
+  .contact-icons {
+    display: flex !important;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: center;
   }
 }
