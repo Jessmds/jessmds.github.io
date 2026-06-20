@@ -23,19 +23,19 @@ My work focuses on translating genetic and genomic knowledge into practical tool
 ## Research themes
 
 :::::: grid
-::: {.g-col-4 .research-card}
+::: {.g-col-12 .g-col-md-4 .research-card}
 ### Conservation genomics
 
 Using genomic tools to understand population structure, connectivity, adaptation, and conservation risk.
 :::
 
-::: {.g-col-4 .research-card}
+::: {.g-col-12 .g-col-md-4 .research-card}
 ### Evolutionary diversity
 
 Applying phylogenetic diversity to support conservation prioritisation.
 :::
 
-::: {.g-col-4 .research-card}
+::: {.g-col-12 .g-col-md-4 .research-card}
 ### Genetic diversity indicators
 
 Developing and applying indicators that support national and global biodiversity reporting.
