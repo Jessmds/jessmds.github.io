@@ -241,5 +241,13 @@ h2 {
   .theme-card {
     max-width: 100% !important;
   }  
-  
+
+  .grid .g-col-4 {
+    grid-column: span 12 !important;
+  }
+
+  .research-card {
+    width: 100% !important;
+    max-width: 100% !important;
+  }  
 }
