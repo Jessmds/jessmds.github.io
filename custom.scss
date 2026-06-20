@@ -231,4 +231,15 @@ h2 {
   .theme-card {
     width: 100% !important;
   }
+
+.theme-grid,
+  .research-theme-grid {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+  }
+
+  .theme-card {
+    max-width: 100% !important;
+  }  
+  
 }
