@@ -23,91 +23,71 @@ My work focuses on translating genetic and genomic knowledge into practical tool
 ## Research themes
 
 :::::: grid
-
 ::: {.g-col-4 .research-card}
-
 ### Conservation genomics
 
 Using genomic tools to understand population structure, connectivity, adaptation, and conservation risk.
-
 :::
 
 ::: {.g-col-4 .research-card}
-
 ### Evolutionary diversity
 
 Applying phylogenetic diversity to support conservation prioritisation.
-
 :::
 
 ::: {.g-col-4 .research-card}
-
 ### Genetic diversity indicators
 
 Developing and applying indicators that support national and global biodiversity reporting.
-
 :::
-
 ::::::
 
 ## Leadership Roles
 
-::: {.role}
+::: role
+![](images/sanbi.png){width="140px"}
 
-![](images/sanbi.png){width=140px}
-
-**Principal Scientist**  
-[South African National Biodiversity Institute](https://www.sanbi.org/) 
-*Genetic Lead, National Biodiversity Assessment*
-
+**Principal Scientist**\
+[South African National Biodiversity Institute](https://www.sanbi.org/) *Genetic Lead, National Biodiversity Assessment*
 :::
 
-::: {.role}
+::: role
+[![](images/cgsg.png){width="240px"}](https://consgen.org/)
 
-[![](images/cgsg.png){width=240px}](https://consgen.org/)
-
-**Deputy Chair**  
+**Deputy Chair**\
 IUCN SSC Conservation Genetics Specialist Group
-
 :::
 
-::: {.role}
+::: role
+[![](images/wltcc.png){width="90px"}](https://www.westernleopardtoad.org/)
 
-[![](images/wltcc.png){width=90px}](https://www.westernleopardtoad.org/)
-
-**Chair**  
+**Chair**\
 Western Leopard Toad Conservation Committee
-
 :::
 
-::: {.role}
+::: role
+![](images/ajh.png){width="70px"}
 
-![](images/ajh.png){width=70px}
-
-**Editor-in-Chief**  
+**Editor-in-Chief**\
 [African Journal of Herpetology](https://www.tandfonline.com/journals/ther20)
 
-**Associate Editor**  
-[Conservation Science and Practice](https://conbio.onlinelibrary.wiley.com/journal/25784854)  
+**Associate Editor**\
+[Conservation Science and Practice](https://conbio.onlinelibrary.wiley.com/journal/25784854)\
 [African Biodiversity and Conservation](https://www.abcjournal.org/index.php/abc)
-
 :::
 
 ## Professional Memberships and Networks
 
-::: {.network-bar}
+::: network-bar
+[![](images/ccg.png){width="100px"}](https://www.coalitionforconservationgenetics.org/)
 
-[![](images/ccg.png){width=100px}](https://www.coalitionforconservationgenetics.org/)
+[![](images/dsi.png){height="60px"}](https://dsi-scientific-network.org)
 
-[![](images/dsi.png){height=60px}](https://dsi-scientific-network.org)
+[![](images/geobon.png){height="60px"}](https://geobon.org/ebvs/working-groups/genetic-composition/) **Genetic Composition WG**
 
-[![](images/geobon.png){height=60px}](https://geobon.org/ebvs/working-groups/genetic-composition/) 
-**Genetic Composition WG**
+[![](images/genoa.png){height="60px"}](https://genoageneticdiversity.eu/)
 
-[![](images/genoa.png){height=60px}](https://genoageneticdiversity.eu/)
-
-[![](images/congen.png){height=60px}](https://www.congenafrica.com/)
-
+[![](images/congen.png){height="60px"}](https://www.congenafrica.com/)
 :::
 
 *Member of international initiatives supporting conservation genetics, biodiversity monitoring, genetic diversity assessment, and digital sequence information governance.*

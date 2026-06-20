@@ -182,3 +182,53 @@ h2 {
   font-size: 1.1rem;
   line-height: 1.7;
 }
+
+/* Mobile fixes */
+@media (max-width: 768px) {
+
+  .hero,
+  .research-row,
+  .research-row.reverse {
+    display: block !important;
+  }
+
+  .hero-text,
+  .hero-image,
+  .research-text,
+  .research-image {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .hero h1 {
+    font-size: 3rem;
+    line-height: 1.05;
+  }
+
+  .hero p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+
+  .research-row,
+  .research-row.reverse {
+    grid-template-columns: 1fr !important;
+  }
+
+  .research-row img,
+  .research-image img {
+    width: 100% !important;
+    max-width: 320px;
+    margin: 1rem auto;
+    display: block;
+  }
+
+  .theme-grid,
+  .research-theme-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  .theme-card {
+    width: 100% !important;
+  }
+}
