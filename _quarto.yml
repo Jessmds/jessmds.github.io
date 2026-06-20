@@ -19,6 +19,10 @@ website:
         href: opportunities.qmd
       - text: "Contact"
         href: contact.qmd
+        
+  page-footer:
+    center: |
+     © 2026 Jessica M. da Silva · Built with Quarto and GitHub Pages
 
 format:
   html:

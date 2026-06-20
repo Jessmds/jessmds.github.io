@@ -17,6 +17,7 @@ Current and recent projects include:
 -   Population genomics of threatened Karoo dwarf tortoises (*Chersobius boulengeri* and *C. signatus*)
 -   Landscape genomics of *Hyperolius pickersgilli*
 -   Genetic monitoring of the Endangered Western Leopard Toad (*Scleroprys pantherina*)
+-   Developing species-specific genetic monitoring frameworks to track genetic diversity, connectivity, and population change
 :::
 
 ::: research-image
@@ -36,7 +37,8 @@ Biodiversity conservation aims not only to preserve species, but also the evolut
 
 Current areas of research include:
 
--   Phylogenetic diversity assessments for South African taxa
+-   Assessing patterns of phylogenetic diversity and expected evolutionary loss across South African mammals
+
 :::
 :::::
 
@@ -48,10 +50,10 @@ Genetic diversity is increasingly recognised as a fundamental component of biodi
 
 Current work includes:
 
--   National-scale, complete taxonomic assessments of genetic diversity indicators
+-   National-scale taxonomic assessments of genetic diversity indicators
 -   Integration of indicators into biodiversity monitoring programmes
 -   Applications within IUCN Red List and Green Status assessments
--   Development of practical frameworks for genetic diversity monitoring
+
 :::
 
 ::: research-image
