@@ -8,8 +8,6 @@ page-layout: article
 
 ## Peer-reviewed
 
-*Upcoming publications and those from the last five years are displayed below. For full list of peer-reviewed publications see*  [![](images/scholar.png){height=32px}](https://scholar.google.co.za/citations?hl=en&user=vfzgboIAAAAJ)
-
 Tolley KA, Tilbury CR, Burger M, **da Silva JM** (in prep). Two new species of Dwarf Chameleons (Bradypodion) from Afrotemperate forests in South Africa
 
 Shaw R, Elliott CP, Mergeay J, Segelbacher G, Blasiak R, Coates DJ, **da Silva JM**, Farquharson KA, Hoban S,  Norström A, Ottewell K, Vilaça ST, Bridgewater P, Fedorca A, Hvilsom C, Jones TH, Kershaw F, Kirkpatrick S, Laikre L, MacDonald AJ, Mastretta-Yanes A, Meek M, Mittan-Moreau C, Russo I-SM, Grueber CE (under review). Business as usual will commit biodiversity to genetic erosion: parallels from climate change for proactive conservation. 
@@ -60,7 +58,7 @@ Hoban S, **da Silva J**, Mastretta-Yanes A, Grueber C, Heuertz M, Hunter M, Merg
 
 Robuchon M, **da Silva J**, Dubois G, Gumbs R, Hoban S, Laikre L, Owen NR, Perino A (2023) Conserving species’ evolutionary potential and history: opportunities under the Kunming-Montreal Global Biodiversity Framework. Conservation Science and Practice 5, e12929. DOI: [10.1111/csp2.12929](https://doi.org/10.1111/csp2.12929) 
 
-Hoban S, Bruford MW, **da Silva J**, Funk WC, Frankham R, Gill MJ, Grueber CE, Heuertz M, Hunter ME, Kershaw F, Lacy RC, Lees C, Lopes‑Fernandes M, MacDonald AJ, Mastretta‑Yanes A, McGowan PJK, Meek MH, Mergeay J, Millette KL,  Mittan‑Moreau CS, Navarro LM, O’Brien D, Ogden R, Segelbacher G, Paz‑Vinas I, Vernesi C, Laikre L. (2023) Genetic diversity Goals and Targets have improved, but remain insufficient for clear implementation of the post 2020 Global Biodiversity Framework. Conservation Genetics 24, 181-191. DOI: 1[0.1007/s10592-022-01492-0](https://link.springer.com/article/10.1007/s10592-022-01492-0)
+Hoban S, Bruford MW, **da Silva J**, Funk WC, Frankham R, Gill MJ, Grueber CE, Heuertz M, Hunter ME, Kershaw F, Lacy RC, Lees C, Lopes‑Fernandes M, MacDonald AJ, Mastretta‑Yanes A, McGowan PJK, Meek MH, Mergeay J, Millette KL,  Mittan‑Moreau CS, Navarro LM, O’Brien D, Ogden R, Segelbacher G, Paz‑Vinas I, Vernesi C, Laikre L. (2023) Genetic diversity Goals and Targets have improved, but remain insufficient for clear implementation of the post 2020 Global Biodiversity Framework. Conservation Genetics 24, 181-191. DOI: [10.1007/s10592-022-01492-0](https://link.springer.com/article/10.1007/s10592-022-01492-0)
 
 Stephens K, Tolley KA, **da Silva JM** (2022) A decade of genetic monitoring reveals increased inbreeding for the Endangered western leopard toad, Sclerophrys pantherina (Smith, 1828). Conservation Genetics 23, 903-918. <https://doi.org/10.1007/s10592-022-01463-5> 
 
@@ -68,12 +66,45 @@ Harper JRM, Van Wilgen NJ, Turner AA, Tolley KA, Maritz B, Clusella-Trullas S, *
 
 Scholtz A, Freitag J, Lyal C, Sara R, Cepeda M, Cancio I, Sett S, Hufton A, Abebaw Y, Bansal K, Benbouza H, Boga HI, Brisse S, Bruford M, Clissold H, Cochrane G, Coddington J, Deletoille A-C, Garcia-Cardona F, Hamer M, Ortiz RH, Miano D, Nicholson D, Oliveira G, Bravo CO, Rohden F, Seberg O, Segelbacher G, Shouche Y, Sierra A, **da Silva J**, Mizrachi I, da Silva M, Hauea D, Suzuki M, Tesfaye K, Tiambo CK, Tolley K, Varshney R, Zambrano M, Overmann J (2022). Multilateral benefit-sharing from digital sequence information will support both science and biodiversity conservation. Nature Communications 13: 1086. DOI: [10.1038/s41467-022-28594-0](https://doi.org/10.1038/s41467-022-28594-0) 
 
-Tolley KA, Tilbury CR, **da Silva JM**, Brown G, Chapeta Y, Anderson CV (2022) Clinging to Survival: Critically Endangered Chapman’s Leaf Chameleon (Rhampholeon chapmanorum) persists in shrinking forest patches.  Oryx 56: 451-456. DOI: [10.1017/S0030605320000952](https://doi.org/10.1017/S0030605320000952) (open access)
+Tolley KA, Tilbury CR, **da Silva JM**, Brown G, Chapeta Y, Anderson CV (2022) Clinging to Survival: Critically Endangered Chapman’s Leaf Chameleon (*Rhampholeon chapmanorum*) persists in shrinking forest patches.  Oryx 56: 451-456. DOI: [10.1017/S0030605320000952](https://doi.org/10.1017/S0030605320000952)
 
-Hoban S , Campbell CD, **da Silva JM**,  Ekblom R , Funk WC, Garner BA, Godoy JA, Kershaw F, MacDonald AJ , Mergeay J, Minter M, O’Brien D, Paz Vinas I, Pearson SK, Pérez-Espona S, Potter KM, Russo I-S M, Segelbacher G, Vernesi C, Hunter ME (2021) Genetic diversity is considered important but interpreted narrowly in country reports to the Convention on Biological Diversity: current actions and indicators are insufficient. Biological Conservation 261: 109233. DOI: [10.1016/j.biocon.2021.109233](https://doi.org/10.1016/j.biocon.2021.109233)  (open access)
+Hoban S , Campbell CD, **da Silva JM**,  Ekblom R , Funk WC, Garner BA, Godoy JA, Kershaw F, MacDonald AJ , Mergeay J, Minter M, O’Brien D, Paz Vinas I, Pearson SK, Pérez-Espona S, Potter KM, Russo I-S M, Segelbacher G, Vernesi C, Hunter ME (2021) Genetic diversity is considered important but interpreted narrowly in country reports to the Convention on Biological Diversity: current actions and indicators are insufficient. Biological Conservation 261: 109233. DOI: [10.1016/j.biocon.2021.109233](https://doi.org/10.1016/j.biocon.2021.109233) 
 
-Blasiak R, Wynberg R, Grorud-Colvert K, Thambisetty S, Bandarra NM, Canario AVM, **da Silva J**, Duarte C, Jaspars M, Rogers A, Sink K, Wabnitz CCC (2020) Future of the Ocean Genome: Prospects for Conservation and Equity. Nature Sustainability 3: 588-596. DOI: [10.1038/s41893-020-0522-9](https://www.nature.com/articles/s41893-020-0522-9) (open access)
+Blasiak R, Wynberg R, Grorud-Colvert K, Thambisetty S, Bandarra NM, Canario AVM, **da Silva J**, Duarte C, Jaspars M, Rogers A, Sink K, Wabnitz CCC (2020) Future of the Ocean Genome: Prospects for Conservation and Equity. Nature Sustainability 3: 588-596. DOI: [10.1038/s41893-020-0522-9](https://www.nature.com/articles/s41893-020-0522-9) 
 
+Seymour CL, Gillson L, Child MF, Tolley KA, Curie JC, **da Silva JM**, Alexander GJ, Anderson P, Downs CT, Egoh BN, Ehlers Smith DA, Ehlers Smith YC, Esler KJ, O’Farrell PJ,  Skowno AL, Suleman E, Veldtman R (2019) Horizon scanning for South African biodiversity: a need for social engagement as well as science. Ambio 49: 1211-1221. <https://doi.org/10.1007/s13280-026-02365-3>
+
+Tolley KA, Hopkins K, **da Silva JM** (2019) Genetic structure associated with habitat diversification supports the independent evolution of ecomorphs in *Bradypodion pumilum*.  African Journal of Herpetology 68: 77-89. <https://doi.org/10.1080/21564574.2019.1646324>
+
+Tolley KA, Weeber J, Maritz B, Verburgt L, Bates MF, Conradie W, Hofmeyr MD, Turner AT, **da Silva JM**, Alexander GJ (2019) No safe haven: Protection levels show imperilled South African reptiles not sufficiently safe-guarded despite low average extinction risk. Biological Conservation 23: 61-72. <https://doi.org/10.1016/j.biocon.2019.02.006>
+
+**da Silva JM**, Tolley KA (2018) Conservation genetics of an endemic and threatened amphibian (Capensibufo rosei): a leap towards establishing a genetic monitoring framework. Conservation Genetics 19: 349-363. <https://doi.org/10.1007/s10592-017-1008-9>
+
+**da Silva JM**, Tolley KA (2017). Diversification through ecological opportunity in dwarf chameleons. Journal of Biogeography 44: 834-847. <https://doi.org/10.1111/jbi.12966>
+
+**da Silva JM**, Feldheim KA, Measey GJ, Doucette-Riise S, Daniels RJ, Chauke LF, Tolley KA (2017). Genetic diversity and differentiation of the Western Leopard Toad (*Sclerophrys pantherina*) based on mitochondrial and microsatellite markers. African Journal of Herpetology 66: 25-38. <https://doi.org/10.1080/21564574.2017.1294115>
+
+Dollion A, Measey GJ, Cornette R, Carne L, Tolley K, **da Silva J**, Boistel R, Herrel, A. (2017).  Does diet drive the evolution of head shape and bite force in chameleons of the genus *Bradypodion*? Functional Ecology 31: 671-684. First published online on 19 September 2016. <https://doi.org/10.1111/1365-2435.12750> 
+
+**da Silva JM**, Feldheim KA, Daniels RJ, Edwards S, Tolley KA (2016).  Analysis of genetic diversity in Rose’s mountain toadlet (*Capensibufo rosei*) using novel microsatellite markers. African Journal of Herpetology 65: 69-82. <https://doi.org/10.1080/21564574.2016.1234511>
+
+**da Silva JM**, Carne L, Measey GJ,  Herrel A, Tolley KA (2016). The relationship between cranial morphology, bite performance, diet and habitat in a radiation of dwarf chameleon (*Bradypodion*). Biological Journal of the Linnean Society 119: 52-67. <https://doi.org/10.1111/bij.12819> 
+
+**da Silva JM**, Willows-Munro S (2016). A review of over a decade of DNA barcoding in South Africa: A faunal perspective. African Zoology 51: 1-12. <https://doi.org/10.1080/15627020.2016.1151377>
+
+**da Silva JM**, Herrel A, Measey GJ, Tolley KA (2014). Sexual dimorphism in bite performance drives morphological variation in a recent radiation of dwarf chameleons. PLoS One 9: e8648. <https://doi.org/10.1371/journal.pone.0086846>
+
+**da Silva JM**, Herrel A, Measey GJ, Vanhooydonck B, Tolley KA (2014). Linking microhabitat structure, morphology and locomotor performance traits in a recent radiation of dwarf chameleons (*Bradypodion*). Functional Ecology 28: 702-713. <https://doi.org/10.1111/1365-2435.12210>
+
+Bates MF, Tolley KA, Edwards S, Davids Z, **da Silva JM**, Branch WR (2013). A molecular phylogeny of the African plated lizards, genus *Gerrhosaurus* Wiegmann, 1828 (Squamata: Gerrhosauridae), with the description of two new genera. Zootaxa 3750: 465–493. <https://doi.org/10.11646/zootaxa.3750.5.3>
+
+**da Silva JM**, Tolley KA (2013). Ecomorphological variation and sexual dimorphism in a recent radiation of dwarf chameleons (*Bradypodion*). Biological Journal of the Linnean Society 109: 113-130. First published online on 15 March 2013. <https://doi.org/10.1111/bij.12045>
+
+Herrel A, Tolley KA, Measey GJ, **da Silva JM**, Potgieter DF, Boistel R, Vanhooydonck B (2013). Slow but tenacious: an analysis of running and gripping performance in chameleons. Journal of Experimental Biology 216: 1025-1030. First published online on 29 November 2012. <https://doi.org/10.1242/jeb.078618>
+
+**da Silva JM**, Donaldson JS, Reeves G, Hedderson TA (2012) Population genetics and conservation of critically small cycad populations - a case study of the Albany Cycad, *Encephalartos latifrons*. Biological Journal of the Linnean Society 105: 293-308. First published online on 16 November 2011. <https://doi.org/10.1111/j.1095-8312.2011.01801.x>
+
+Feldheim K, **da Silva JM**, Tolley K (2012) Isolation of novel microsatellite loci in dwarf chameleons from KwaZulu-Natal province, South Africa and their cross-amplification in other *Bradypodion* species. Conservation Genetics Resources 4: 205-211. First published online on 25 June 2011. <https://doi.org/10.1007/s12686-011-9472-x>
 
 ## Technical Reports
 
